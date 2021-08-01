@@ -1,4 +1,4 @@
-![](images/filename%20colorbanner-W.png)
+![colorbanner-W](https://user-images.githubusercontent.com/77562114/127771954-bd8603e9-28e8-4d45-b355-4bea6c6e2e4d.png)
 
 # Project Name:
 Final Integrated Project 
