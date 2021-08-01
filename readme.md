@@ -6,7 +6,7 @@ Final Integrated Project
 This is a 5 page website in HTML, using CSS assignment for final integrated project of Interactive Media Design Program, Fanshawe College. 
 
 ## What is inside in this project?
-Two brands is mashed up and new brand is created. A logo, emblem, label are created with Adobe Illustrator, package design created with photoshop, video created with after effects and  bottle is created with Cinema 4D to use in the 5 page website. 
+Two brands is mashed up and new brand is created. A logo, emblem, label are created with Adobe Illustrator, package design created with photoshop, video created with After Effects and  bottle is created with Cinema 4D to use in the 5 page website. 
 
 ## MIT License
 Copyright 2021 Elif Sarikaya
